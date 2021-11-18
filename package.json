@@ -1,0 +1,19 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "description": "This is a framework for Rest API Automation Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanMerlo5/API-Automation.git"
+  },
+  "author": "Bryan Merlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanMerlo5/API-Automation/issues"
+  },
+  "homepage": "https://github.com/BryanMerlo5/API-Automation#readme"
+}
