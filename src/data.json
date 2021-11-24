@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://jsonplaceholder.typicode.com",
+    "createPost": "/posts",
+    "getFirstComment": "/comments?postId={id}",
+    "getAllComments": "/posts",
+    "updateEmployeeUrl": "/update/{id}",
+    "delete": "/posts/1"
+}
